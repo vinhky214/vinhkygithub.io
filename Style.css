@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+  box-sizing: border-box
+}
+body {
+  font-size: 25px;
+  color: #CAC0B6;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+  margin: 0;
+  text-align: center;
+  background-image: url("Image/Background.png")
+}
+.menu {
+  width: 100%;
+  height: 100px;
+}
+.container {
+  width: 80%;
+  margin: auto
+}
+.boxmenu {
+  width: 33.33%;
+  min-height: 100px;
+  padding: 10px;
+  float: left
+}
+.trangchu {
+  padding: 0px 10px 0px 10px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center
+}
+.trangchu a {
+  text-decoration: none;
+  color: #c82f65;
+  padding: 10px;
+  text-align: center;
+  font-weight: normal;
+  align-items: center;
+  align-content: center
+}
+.trangchu a:hover {
+  background-color: #105212;
+  color: white;
+  border-radius: 30px
+}
+.boxlogo {
+  width: 33.33%;
+  min-height: 100px;
+  float: left;
+  padding: 0px
+}
+.imglogo {
+  height: 150px;
+  text-aling: center
+}
+.img100 {
+  width: 100%;
+  height: auto
+}
+.banner {
+  width: 100%;
+  min-height: 300px
+}
+.main {
+  width: 100%;
+  min-height: 50px
+}
+.content {
+  width: 100%;
+  margin: 0
+}
+.contentbox {
+  width: 60%;
+  min-height: 100px;
+  padding: 90px 10px 0px 5px;
+  float: left;
+}
+.gifbox {
+  width: 40%;
+  min-height: 100px;
+  padding: 5px 5px 0px 10px;
+  float: left;
+}
+.gifword {
+  width: 100%;
+  height: 30px
+}
+.imgman {
+  height: 300px;
+  border-radius: 100px;
+  float: left
+}
+.gif3 {
+  width: 60%;
+  height: 300px;
+  background-color: #c82f65;
+  margin: 15px 300px 0px 300px;
+  border-radius: 100px;
+  text-align: center
+}
+.clearfix {
+  clear: both
+}
+.img3 {
+  height: 300px
+}
+.container {
+  width: 100%;
+  margin: auto
+}
+.box {
+  width: 25%;
+  min-height: 100px;
+  padding: 0px 40px 0px 40px;
+  float: left;
+  margin: 0
+}
+.imgproduct {
+  width: 100%;
+  height: auto;
+  border-radius: 0px 0px 30px 30px;
+  margin: 0
+}
+.products {
+  color: #c82f65;
+  text-align: left;
+  font-size: 60px;
+  padding: 0px 0px 0px 40px;
+  margin: 30px 0px 0px 0px
+}
+.textproduct {
+  color: #c82f65;
+  margin: 0;
+  text-align: center
+}
+.footer {
+  width: 100%;
+  min-height: 50px;
+  margin: 0
+}
+.text4 {
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  color: #c82f65;
+  font-size: 30px;
+  font-weight: bold
+}
+.footgif {
+  height: 400px;
+  padding: 0px;
+  margin: 0
+}
+.trangchufooter {
+  padding: 0;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center
+}
