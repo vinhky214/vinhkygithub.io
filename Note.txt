@@ -1,0 +1,67 @@
+<div class="menu">
+	<div class="container">
+	<div class="boxmenu">
+	<div class="trangchu"> <a href="#">HOME</a> <a href="#">ABOUT US</a> <a href="#">OUR STORY</a>
+		</div></div>
+	<div class="boxlogo">  
+		<img src="Image/logo pink-04.png" alt="img" class="imglogo"></div>
+		<div class="boxmenu">
+	<div class="trangchu">  <a href="#">PRODUCT</a> <a href="#">CONTACT</a> <a href="#">MORE</a> 
+		</div></div>
+	</div>
+	</div>
+
+.trangchu {
+	padding: 15px;
+  text-align: center
+}
+.trangchu a {
+  text-decoration: none;
+  color: White;
+  padding: 10px;
+  text-align: center;
+  font-weight: normal
+}
+.trangchu a:hover {
+  background-color: white;
+  color: #B52457 
+}
+
+
+code màu hồng: #c82f65
+
+
+<div class="menu">
+	<div class="container">
+	<div class="boxmenu">
+	<div class="trangchu"> <a href="#">HOME</a> <a href="#">ABOUT US</a> <a href="#">OUR STORY</a>
+		</div></div>
+	<div class="boxlogo">  
+		<img src="Image/logo pink-04.png" alt="img" class="imglogo"></div>
+		<div class="boxmenu">
+	<div class="trangchu">  <a href="#">PRODUCT</a> <a href="#">CONTACT</a> <a href="#">MORE</a> 
+		</div></div></div></div>
+	<div class="banner"> <img src="Image/gip-4.gif" alt="img" class="img100"> </div>
+
+
+
+<div id="wrapper">
+		<div class="mangif">
+			<div class="box">
+			</div>
+			</div>
+		</div>
+
+
+ <div class="trangchu2">
+	  <div class="footgif">
+	  <img src="Image/gif-footer.gif" alt="img" class="imgfooter">
+	 </div> 
+	  <div class="foot">
+		   <p class="text4">Copyright 2012 .Bloom</p>
+		  </div>
+	  <div class="footgif">
+	  <img src="Image/gif-footer-flip.gif" alt="img" class="imgfooter">
+   
+	 </div> 
+ 
